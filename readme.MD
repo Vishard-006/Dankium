@@ -6,10 +6,9 @@ For automating dank memer commands and grinding coins
 
 | OS  | File |
 | ------------- | ------------- |
-| Windows  | [Dankium.exe](https://github.com/Vishard-006/Dankium/releases/download/v1.0/Dankium.exe)  |
+| Windows  | [Source Zip](https://github.com/Vishard-006/Dankium/archive/v1.0.zip)  |
 | MacOs  | [Source Tarball](https://github.com/Vishard-006/Dankium/archive/v1.0.tar.gz)  |
 | Linux  | [Source Tarball](https://github.com/Vishard-006/Dankium/archive/v1.0.tar.gz) |
-| Zip file | [Source Zip](https://github.com/Vishard-006/Dankium/archive/v1.0.zip) |
 ## Compiling from Source
 
  
@@ -36,5 +35,6 @@ For automating dank memer commands and grinding coins
 #### Note 
 - For compiling from source an Installation of Python added to PATH is required
 - You must have purchased required things for each command before running the bot . Otherwise Bot will not work
+- Most Importantly , you must have disabled 2fac-auth . 
    
     
