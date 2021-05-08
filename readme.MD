@@ -37,5 +37,6 @@ For automating dank memer commands and grinding coins
 - For compiling from source an Installation of Python added to PATH is required
 - You must have purchased required things for each command before running the bot . Otherwise Bot will not work
 - Most Importantly , you must have disabled 2fac-auth . 
-**Do this under your own risk , I am not responsible if you get banned **   
+>  Do this at your own risk . I am not responsible if you get banned
+ 
     
